@@ -3,8 +3,6 @@ using System.Collections.Generic;
 using System.Xml.Serialization;
 using System.IO;
 
-//Desenvolvido por Pedro Xavier Oliveira
-
 public class Program {
     public static void Main(string[] args) {
         Cadastro cadastro = new Cadastro();
