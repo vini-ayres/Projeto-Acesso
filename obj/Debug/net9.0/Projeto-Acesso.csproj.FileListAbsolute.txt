@@ -1,0 +1,14 @@
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\CBTEDD2\Projeto-Acesso\obj\Debug\net9.0\Projeto-Acesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\CBTEDD2\Projeto-Acesso\obj\Debug\net9.0\Projeto-Acesso.AssemblyInfoInputs.cache
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\CBTEDD2\Projeto-Acesso\obj\Debug\net9.0\Projeto-Acesso.AssemblyInfo.cs
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\CBTEDD2\Projeto-Acesso\obj\Debug\net9.0\Projeto-Acesso.csproj.CoreCompileInputs.cache
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\CBTEDD2\Projeto-Acesso\bin\Debug\net9.0\Projeto-Acesso.exe
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\CBTEDD2\Projeto-Acesso\bin\Debug\net9.0\Projeto-Acesso.deps.json
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\CBTEDD2\Projeto-Acesso\bin\Debug\net9.0\Projeto-Acesso.runtimeconfig.json
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\CBTEDD2\Projeto-Acesso\bin\Debug\net9.0\Projeto-Acesso.dll
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\CBTEDD2\Projeto-Acesso\bin\Debug\net9.0\Projeto-Acesso.pdb
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\CBTEDD2\Projeto-Acesso\obj\Debug\net9.0\Projeto-Acesso.dll
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\CBTEDD2\Projeto-Acesso\obj\Debug\net9.0\refint\Projeto-Acesso.dll
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\CBTEDD2\Projeto-Acesso\obj\Debug\net9.0\Projeto-Acesso.pdb
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\CBTEDD2\Projeto-Acesso\obj\Debug\net9.0\Projeto-Acesso.genruntimeconfig.cache
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\CBTEDD2\Projeto-Acesso\obj\Debug\net9.0\ref\Projeto-Acesso.dll
